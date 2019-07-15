@@ -17,4 +17,4 @@ Modeling Component:
 1. Use a set of features for predicting whether or not a employee requires treatment or not, based
 on the other features in the data set.
 2. The use the models like Logistic Regression, K nearest Neighbor, Decision Tree Model, Random
-Forest Model. Test out the best accuracy model out of the four models.
+Forest Model. Test out the most accurate model out of the four models.
