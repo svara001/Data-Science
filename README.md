@@ -1,6 +1,6 @@
 # Data Science - Treatment of employee
 
-Data Set: Mental Health In tech Survey (URL : https://www.kaggle.com/osmi/mental-health-in-tech-survey
+Data Set: Mental Health In tech Survey ( URL : https://www.kaggle.com/osmi/mental-health-in-tech-survey )
 
 EDA Component :
 1. Explore the columns like Gender , Country, State, Treatment, no_employee,
